@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 venv/
 venv310/
-
+URL projecte.txt
 # Test files
 test_*.py
 
@@ -22,6 +22,3 @@ Dockerfile*
 # Misc
 *.log
 .DS_Store
-my publishkey.txt
-my.projicte id.txt
-projiecturl.txt
